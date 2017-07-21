@@ -1,6 +1,6 @@
 <?php 
 /**
- * Custom Digital Performing Language Switcher
+ * Custom Club Sandwich Co Language Switcher
  * @param  [type] $items contiene la lista de menus ya declarados (i.e. home | abou us | contact).
  * @param  [type] $args  [description]
  * @return [type]        [description]
